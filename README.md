@@ -6,6 +6,11 @@ This project analyzes a bank marketing dataset to identify key factors influenci
 
 ---
 
+## Business Problem
+The bank aims to improve its marketing campaign effectiveness by identifying customer segments most likely to subscribe to term deposits.
+
+---
+
 ## Objective
 
 To evaluate campaign performance and uncover insights related to customer behavior, targeting strategy, and conversion trends.
@@ -31,6 +36,14 @@ To evaluate campaign performance and uncover insights related to customer behavi
 * Seasonal trend analysis (**Monthly Conversion**)
 * Financial behavior analysis (**Account Balance Buckets**)
 
+---
+
+## Key Metrics
+- Total Customers: 45,212
+- Total Conversions: 5,289
+- Conversion Rate: 11.7%
+- Avg Account Balance: ₹1,362
+- 
 ---
 
 ## Key Insights
